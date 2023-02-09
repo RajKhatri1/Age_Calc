@@ -30,7 +30,7 @@ class _AgeState extends State<Age> {
         appBar: AppBar(
           title: Text("Age Calculator"),
           centerTitle: true,
-          backgroundColor: Colors.blueGrey.shade900,
+          backgroundColor: Colors.blue,
         ),
         body: SingleChildScrollView(
           child: Center(
